@@ -38,6 +38,8 @@ int main() {
     // Calcul et affichage de la suite de Fibonacci
     fibonacci(terms);
 
+    printf("Vasy le S c'est long ce code !\n");
+
     return 0;
 }
 
